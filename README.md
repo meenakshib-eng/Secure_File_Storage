@@ -2,6 +2,7 @@
  Overview
 This project implements a **Secure File Storage System** that protects files using encryption and controls access using **Role-Based Access Control (RBAC)**. It ensures confidentiality, integrity, and controlled access to sensitive files.
 
+![Project Architecture](PROJECT_ARCHITECTURE.png)
 
 The system combines:
 - AES for data encryption  
