@@ -26,13 +26,12 @@ The system combines:
 - **Modular code structure** for easy expansion
 
  System Architecture
-- **Frontend:** (CLI / Flask / Django — update based on your project)
-- **Backend:** Python  
+- **langauge:** Python  
 - **Database:** SQLite / MySQL  
 - **Crypto Libraries:** `cryptography`, `PyCryptodome`
 
 
--   How It Works
+-   **How It Works**
 
    AES Encryption
 
