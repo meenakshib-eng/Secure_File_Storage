@@ -30,8 +30,7 @@ The system combines:
 - **Database:** SQLite / MySQL  
 - **Crypto Libraries:** `cryptography`, `PyCryptodome`
 
-
--   **How It Works**
+ **How It Works**
 
    AES Encryption
 
