@@ -32,7 +32,8 @@ The system combines:
 - **Crypto Libraries:** `cryptography`, `PyCryptodome`
 
 
-  How It Works
+-   How It Works
+
    AES Encryption
 
 Each uploaded file is encrypted using AES-256 (CBC/GCM).
